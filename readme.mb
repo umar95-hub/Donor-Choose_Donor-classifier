@@ -1,4 +1,5 @@
-The objective of this assignment is to predict whether a request for funding in donorchhose website will get funded or not.
+The objective of this assignment is to predict whether a request for funding in donorchhose website will get funded or not. In order to do so I've used various architectures
+that build using fuctional API of keras. 
 
 **DonorsChoose
 DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. 
